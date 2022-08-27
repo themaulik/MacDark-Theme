@@ -1,4 +1,4 @@
-![Screenshot](image/MacDark-Theme.PNG)
+![Screenshot](https://raw.githubusercontent.com/themaulik/MacDark-Theme/main/image/MacDark-Theme.PNG)
 
 # MacDark for [Visual Studio Code](http://code.visualstudio.com)
 
