@@ -1,11 +1,20 @@
 {
   "name": "dark",
-  "displayName": "Mac Dark",
+  "displayName": "Mac Dark - Theme",
   "description": "This theme is inspired by the macOS dark mode and material UI design Tips. I hope you loved it.",
   "version": "0.0.1",
+  "publisher": "MaulikCodes",
   "engines": {
     "vscode": "^1.70.0"
   },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "mac dark theme",
+    "maulikcodes theme",
+    "mac dark dark theme",
+    "dark theme"
+  ],
   "categories": [
     "Themes"
   ],

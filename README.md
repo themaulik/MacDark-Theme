@@ -1,16 +1,27 @@
-# Mac dark README
+# MacDark for [Visual Studio Code](http://code.visualstudio.com)
 
-## Working with Markdown
+> A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![Screenshot](https://raw.githubusercontent.com/dracula/visual-studio-code/master/screenshot.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Thank You So Much ❤
 
-## For more information
+Thanks for checking out my VS Code theme. I hope you will love it.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Installation 🖥
 
-**Enjoy!**
+1. Open the extensions sidebar on Visual Studio Code
+1. Search for MacDark - Theme
+1. Click Install
+1. Click Reload to reload your editor
+1. Select the Manage Cog (bottom left) > Color Theme ＞ MacDark - Theme
+1. 🌟🌟🌟🌟🌟 Rate five-stars 😃
+
+## Issues & Suggestions ⚠
+
+For any issues or suggestions, please use [GitHub issues](https://github.com/themaulik/MacDark-Theme/issues).
+
+## Contributing 👷‍♂️
+
+If you'd like to contribute to this theme, please read the [contributing guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors).
+
