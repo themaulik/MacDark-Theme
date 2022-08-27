@@ -4,6 +4,10 @@
   "description": "This theme is inspired by the macOS dark mode and material UI design Tips. I hope you loved it.",
   "version": "0.0.1",
   "publisher": "MaulikCodes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/themaulik/MacDark-Theme"
+  },
   "engines": {
     "vscode": "^1.70.0"
   },
