@@ -28,7 +28,7 @@
       {
         "label": "Mac Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Mac Dark-color-theme.json"
+        "path": "./themes/MacDark-color-theme.json"
       }
     ]
   }
