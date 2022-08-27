@@ -2,7 +2,7 @@
 
 # MacDark for [Visual Studio Code](http://code.visualstudio.com)
 
-> A dark theme for [Visual Studio Code](http://code.visualstudio.com).
+> Click Here To See The Theme Or Download [MacDark - Theme](https://marketplace.visualstudio.com/items?itemName=MaulikCodes.macdark).
 
 ## Thank You So Much ❤
 
