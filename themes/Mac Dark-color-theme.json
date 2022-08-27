@@ -84,7 +84,6 @@
 		"menu.selectionBorder": "#181818",
 		"menu.selectionForeground": "#EEFFFF",
 		"menu.separatorBackground": "#EEFFFF",
-		"menubar.selectionBackground": "#818181",
 		"menubar.selectionBorder": "#EEFFFF50",
 		"menubar.selectionForeground": "#EEFFFF",
 		//minimap-------------->
@@ -101,7 +100,7 @@
 		"notifications.foreground": "#eeffff",
 		//panel
 		"panel.background": "#121212",
-		"panel.border": "#fff",
+		"panel.border": "#c792ea",
 		"panelTitle.activeBorder": "#EEFFFF",
 		"panelTitle.activeForeground": "#212121",
 		"panelTitle.inactiveForeground": "#EEFFFF",
@@ -238,7 +237,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#F45B69"
 			}
 		},
 		{
@@ -282,7 +281,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#B8B8FF"
 			}
 		},
 		{
@@ -291,7 +290,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#fdd692"
+				"foreground": "#E8998D"
 			}
 		},
 		{

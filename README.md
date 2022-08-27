@@ -1,8 +1,8 @@
+![Screenshot](image/MacDark-Theme.PNG)
+
 # MacDark for [Visual Studio Code](http://code.visualstudio.com)
 
 > A dark theme for [Visual Studio Code](http://code.visualstudio.com).
-
-![Screenshot](https://raw.githubusercontent.com/dracula/visual-studio-code/master/screenshot.png)
 
 ## Thank You So Much ❤
 
