@@ -1,0 +1,21 @@
+{
+  "name": "dark",
+  "displayName": "Mac Dark",
+  "description": "This theme is inspired by the macOS dark mode and material UI design Tips. I hope you loved it.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mac Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mac Dark-color-theme.json"
+      }
+    ]
+  }
+}
